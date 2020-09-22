@@ -1,4 +1,4 @@
-FROM sonarqube:8-community
+FROM sonarqube:8.2-community
 
 MAINTAINER Erik Jacobs <erikmjacobs@gmail.com>
 MAINTAINER Siamak Sadeghianfar <siamaksade@gmail.com>
